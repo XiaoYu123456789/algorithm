@@ -1,5 +1,6 @@
 @echo off
-start cmd git pull
-start cmd git add .
-start cmd git commit -m 'xyh'
-start cmd git push
+git pull
+git add .
+git commit -m 'xyh'
+git push
+pause
